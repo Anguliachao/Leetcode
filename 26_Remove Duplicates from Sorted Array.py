@@ -1,4 +1,4 @@
-*My answer*:
+###My answer:
         def removeDuplicates(nums):
     del_idx = []
     for i in range(len(nums)):
@@ -14,7 +14,7 @@
 nn = removeDuplicates([0,0,1,1,1,2,2,3,3,4])
 print(nn)
 
-Python version 
+###Python version 
 def removeDuplicates(self, nums):
         """
         :type nums: List[int]
@@ -28,7 +28,7 @@ for j in range(1,len(nums)):
    nums[i+1] = nums[j]
    i += 1
  
-C++ version
+###C++ version
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
