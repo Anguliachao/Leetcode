@@ -1,4 +1,4 @@
-My answer:
+*My answer*:
         def removeDuplicates(nums):
     del_idx = []
     for i in range(len(nums)):
