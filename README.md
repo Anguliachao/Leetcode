@@ -6,4 +6,4 @@ Some solutions are referred from others or multiple-solutions, I will attach the
 ## 1. Array
 | #    | Problems                                                        | Solution                                    | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------- | ---------- |
-| 283  | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C++/Python](283_Move Zeros.py) | Easy       |
+| 283  | [Move Zeros](https://leetcode.com/problems/move-zeroes/) | [C++/Python](283_Move%20Zeros.py) | Easy       |
