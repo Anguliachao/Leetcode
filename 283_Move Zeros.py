@@ -1,3 +1,5 @@
+# The idea of move zeros resides in moving all non-zero elements to array front
+#  Thus we introduce a index position to maintain non-zeros, others all zero
 ## Python
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
